@@ -1,4 +1,5 @@
 # Android Basics Workshop
+This repo have been seen by [![HitCount](http://hits.dwyl.io/RisingLight/Android_Basics_Workshop.svg)](http://hits.dwyl.io/RisingLight/Android_Basics_Workshop) people starting from June 02, 2019.
 
 ## Java / Kotlin refresher
 `
